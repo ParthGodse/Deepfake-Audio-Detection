@@ -4,7 +4,7 @@ Created our own deep faked audio using Generative Adversarial Neural Networks (G
 
 ## Tech Stack 
 
-Programming Language : Python
+Programming Language : Python\n
 Libraries : Tensorflow, Keras, Sci-kit Learn, Matplotlib, Pandas, Numpy
 Models : MobileNet, VGG16, Inception, Custom CNN
 Explainable AI (XAI) methods : SHAP, LIME, GradCam
