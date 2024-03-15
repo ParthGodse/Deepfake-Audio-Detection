@@ -27,3 +27,5 @@ Fake-or-Real dataset from York Univeristy containing sample audio files which ar
 ## Spectogram results after applying Explainable AI
 
 ![image](https://github.com/ParthGodse/XAI-GANs/assets/98154485/a4e86bc9-d9d9-4f5c-bfc9-983b3e05bba8)
+
+In collaboration with : Atharva Gurav, Aditi Govindu, Aamir Hullur
